@@ -8,7 +8,7 @@ PyAutoLens is open source software for the analysis and modeling of strong gravi
 
 **Task**: Modify and/or use the already existing functionality of PyAutoLens to simulate strong lensing from superfluid dark matter. Specifically, you will need to simulate the effects of lensing from a linear mass density - imagine this being a string of mass on galactic scales.
 
-Solution can be found [**here**](https://github.com/gagan3012/gsoc-deeplense-ml/blob/master/Test_I_Simulating_Superfluid_Dark_Matter_(DM)_with_PyAutoLens.ipynb)
+# Solution can be found [**here**](https://github.com/gagan3012/gsoc-deeplense-ml/blob/master/Test_I_Simulating_Superfluid_Dark_Matter_(DM)_with_PyAutoLens.ipynb)
 
 ## Task 2
 
@@ -37,7 +37,7 @@ Evaluation Metrics: ROC curve (Receiver Operating Characteristic curve) and AUC 
 #### AUROC = 0.6
 
 
-Solution can be found [**here**](https://github.com/gagan3012/gsoc-deeplense-ml/blob/master/Test_II_Learning_the_DM_representation.ipynb)
+# Solution can be found [**here**](https://github.com/gagan3012/gsoc-deeplense-ml/blob/master/Test_II_Learning_the_DM_representation.ipynb)
 
 
 
