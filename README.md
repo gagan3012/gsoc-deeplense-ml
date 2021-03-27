@@ -10,6 +10,12 @@ PyAutoLens is open source software for the analysis and modeling of strong gravi
 
 # Solution can be found [**here**](https://github.com/gagan3012/gsoc-deeplense-ml/blob/master/Test_I_Simulating_Superfluid_Dark_Matter_(DM)_with_PyAutoLens.ipynb)
 
+![image](https://user-images.githubusercontent.com/49101362/112737878-f684b980-8f6e-11eb-86c1-d2ea93c4038d.png)
+![image](https://user-images.githubusercontent.com/49101362/112737880-02707b80-8f6f-11eb-8d27-a58d7606b275.png)
+![image](https://user-images.githubusercontent.com/49101362/112737883-08665c80-8f6f-11eb-9d65-62bdf9ac5a68.png)
+![image](https://user-images.githubusercontent.com/49101362/112737886-0ef4d400-8f6f-11eb-801a-03127a0e3d96.png)
+
+
 ## Task 2
 
 ### Specific Test II. Learning the DM representation 
