@@ -21,9 +21,12 @@ Link:
 https://github.com/ML4SCI/ML4SCI_GSoC/tree/main/DeepLense/Domain%20Adaptation
 
 **Task** : Use the provided model weights for weight initialization or feature extraction, and train an unsupervised deep learning algorithm of your choice to learn the distribution of the provided strong lensing images with no substructure to solve the task of unsupervised anomaly detection using PyTorch. Pick the most appropriate approach and discuss your strategy.						
-Dataset: https://github.com/ML4SCI/ML4SCI_GSoC/blob/main/DeepLense/Domain%20Adaptation/lenses.tgz
-Dataset Description: A set of simulated strong gravitational lensing images with and without substructure. 
-Evaluation Metrics: ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve) 
+
+**Dataset** : https://github.com/ML4SCI/ML4SCI_GSoC/blob/main/DeepLense/Domain%20Adaptation/lenses.tgz
+
+**Dataset Description**: A set of simulated strong gravitational lensing images with and without substructure. 
+
+**Evaluation Metrics**: ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve) 
 
 ### Metrics Results: 
 
